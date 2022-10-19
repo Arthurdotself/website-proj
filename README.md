@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Readme/Login_page.png
+<img src="Readme/Login_page.png"  >
 
 its a website project for the college . and it's alomst my first try to create a functional website 
 that means you can insert,delete,edit and display data in the database that coonected to the website.
@@ -26,7 +26,7 @@ that means you can insert,delete,edit and display data in the database that coon
 
 download the php files and install xampp create database  as following diagram
 
-[![Product Name Screen Shot][Readme/database_diagram.png]]
+<img src="Readme/database_diagram.png"  >
 
 create a file in "c/xampp/htdocs" 
 
