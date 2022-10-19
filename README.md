@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][Readme/Login_page.png]]
+Readme/Login_page.png
 
 its a website project for the college . and it's alomst my first try to create a functional website 
 that means you can insert,delete,edit and display data in the database that coonected to the website.
