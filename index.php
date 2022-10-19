@@ -10,7 +10,7 @@ if(isset($_POST['submit'])){
       if($row > 0){
         header("location:display.php");
       } else {
-        $msg = "username or password not correct";
+        $msg = ' <div class="alert alert-danger"> username or password not correct</div> ';
       }
     }
 }
@@ -49,7 +49,8 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
 
             <div class="mb-md-5 mt-md-4 pb-5">
 
-            <div class="alert alert-danger"><?php echo $msg ?></div>
+            <?php echo "$msg" ?>
+
 <form method = "post">
               <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
               <p class="text-white-50 mb-5">Please enter your email and password!</p>
